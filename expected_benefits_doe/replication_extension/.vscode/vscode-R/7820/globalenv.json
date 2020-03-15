@@ -1,0 +1,1 @@
+{"test":{"class":["data.frame"],"type":"list","length":7,"str":"'data.frame':\t880515 obs. of  7 variables:","names":["year","ccode_a","ccode_b","predict","VictoryA","VictoryB","prediction"]}}

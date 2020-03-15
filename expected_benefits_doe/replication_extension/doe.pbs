@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#PBS -l walltime=016:00:00
+#PBS -l nodes=1:ppn=8,mem=32gb
+#PBS -N h2o_doe
+#PBS -j oe 
+#PBS -m abe
+#PBS -M kent.249@osu.edu
+
+# Load modules
+module load intel/16.0.3
+module load R/3.5.0
+
+# Commands to run
+cd /home/kent.249/doe_final/
+Rscript 3d-ensemble-small.r

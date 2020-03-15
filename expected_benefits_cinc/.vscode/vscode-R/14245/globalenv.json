@@ -1,0 +1,1 @@
+{"nmc":{"class":["spec_tbl_df","tbl_df","tbl","data.frame"],"type":"list","length":11,"str":"Classes ‘spec_tbl_df’, ‘tbl_df’, ‘tbl’ and 'data.frame':\t15171 obs. of  11 variables:","names":["stateabb","ccode","year","milex","milper","irst","pec","tpop","upop","cinc","version"]}}

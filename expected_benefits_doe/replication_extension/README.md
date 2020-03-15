@@ -1,0 +1,1 @@
+Much of this code is adapted from Carroll and Kenkel's (2019) [GitHub repository](https://github.com/brentonk/doe-h2o). I take their machine learning approach and retrain the models on a smaller dataset of MIDs with clear outcomes, dropping stalemates.

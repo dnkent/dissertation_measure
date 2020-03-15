@@ -1,0 +1,4 @@
+{"time":"2020-03-05 09:21:56","pid":6618,"command":"attach","tempdir":"/tmp/RtmpBk7XiQ"} 
+{"time":"2020-03-07 17:03:24","pid":11650,"command":"attach","tempdir":"/tmp/RtmpCscXHQ"} 
+{"time":"2020-03-07 18:01:12","pid":22551,"command":"attach","tempdir":"/tmp/Rtmpszuf21"} 
+{"time":"2020-03-07 19:12:33","pid":22551,"command":"dataview","source":"table","type":"json","title":"dplyr::filter(alliance_centrality, stateabb == \"CHN\")","file":"/tmp/Rtmpszuf21/file58173d6bcc9a.json"} 
